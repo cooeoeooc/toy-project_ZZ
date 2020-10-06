@@ -6,3 +6,4 @@ print(s)
 y=[3,4,5,6]
 print(y)
 
+c=2
